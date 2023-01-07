@@ -1,6 +1,6 @@
 #Simple Python OPC-UA Server
 #Sending out 2 data values
-#code repository at https://github.com/techeast-org/opc-ua
+#code repository at https://github.com/techbeast-org/opc-ua
 #LGPL-3.0 License
 
 import asyncio

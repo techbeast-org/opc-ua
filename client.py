@@ -1,5 +1,5 @@
 #Simple Python OPC-UA Client
-#code repository at https://github.com/techeast-org/opc-ua
+#code repository at https://github.com/techbeast-org/opc-ua
 #LGPL-3.0 License
 
 import asyncio
